@@ -1,0 +1,71 @@
+Terdapat 23 tim rugby yang sedang bermain dalam sebuah turnamen. Berapakah banyaknya pertandingan yang harus dimainkan agar diketahui siapa pemenangnya? 
+a.11
+b.12
+c.22
+d.23
+Jawaban (c)
+
+Bintang Berekor
+Setiap interval 15 menit, terdapat 20% probabilitas bahwa Anda dapat melihat satu bintang berekor. Berapakah probabilitasnya Anda dapat melihat setidaknya satu bintang berekor tiap satu jam?
+a.0.5904
+b.0.4096
+c.0.8
+d.0.2
+Jawaban (a)
+
+Statistik Deskriptif
+Manakah pernyataan yang benar dari pilihan di bawah ini
+a.Rata-rata adalah ukuran tendensi pusat suatu data
+b.Rata-rata empiris berhubungan dengan pemusatan variabel acak
+c.Standar deviasi empiris mengukur besarnya sebaran data
+d.Semua benar
+Jawaban (d)
+
+Algoritma mana ya?
+Setelah mengkaji perilaku sebuah populasi, Anda telah mengidentifikasi empat jenis individu spesifik yang bernilai pada kajian Anda. Anda akan menentukan semua pengguna yang paling serupa untuk setiap jenis individu itu. Algoritma manakah yang paling cocok untuk kajian ini?
+Pilihlah satu jawaban yang benar.
+a.K-means clustering
+b.Linear regression
+c.Association rules
+d.Decision trees
+Jawaban (a)
+
+Regresi Linier
+Dengan menambahkan fitur yang tidak penting ke model regresi yang telah dibuat akan menghasilkan 
+Kenaikan nilai R-square
+Penurunan nilai R-square
+Manakah pernyataan 1 atau 2 yang benar?
+a.Hanya 1 yang benar
+b.Hanya 2 yang benar
+c.Keduanya benar
+d.Keduanya tidak benar
+Jawaban (a)
+
+Boosting!
+Manakah yang termasuk dari algoritma berikut yang merupakan sub-kelas largest boost dalam keluarga algoritma boosting?
+a.variance boosting
+b.gradient boosting
+c.mean boosting
+d.Semuanya
+Jawaban (b)
+
+Cross-validation
+Untuk k cross-validation, semakin besar nilai k menghasilkan bias yang lebih besar juga.
+Benar atau salahkah pernyataan di atas?
+a.Benar
+b.Salah
+Jawaban (b)
+
+Binary Classification
+Jika Anda bekerja pada suatu proyek yang menggunakan permasalahan binary classification. Kemudian, Anda mentraining sebuah model pada training dataset dan kemudian memperoleh confusion matrix setelah menerapkannya pada validation dataset, berikut ini
+Berdasarkan pada confusion matrix tersebut, pilihlah jawaban berikut ini mana yang memberikan prediksi yang benar?
+Accuracy adalah ~0.91
+Misclassification rate adalah ~ 0.91
+False-positive rate adalah ~0.95
+True positive rate adalah ~0.95
+a.1 dan 3
+b.2 dan 4
+c.1 dan 4
+d.2 dan 3
+Jawaban (c)
+
